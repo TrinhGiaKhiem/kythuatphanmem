@@ -1,1 +1,0 @@
-muốn thử dùng lệnh git pull xem sao
